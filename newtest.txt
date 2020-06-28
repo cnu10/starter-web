@@ -1,1 +1,0 @@
-my name is srinivas, its complete workflow of git project after cloning, commit the file to github repo
